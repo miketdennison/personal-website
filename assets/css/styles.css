@@ -2,7 +2,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 2.5rem;
+ 
 }
 
 h1 {
@@ -62,7 +62,25 @@ a {
     width: 15%;
 }
 
-.skills-image {
-    height: 10%;
-    width: 10%;
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills-img {
+    height: 25%;
+    width: 25%;
+    
+}
+
+.coding-img {
+    margin-right: 30px;
+    float: left;
+}
+
+.communication-img {
+    margin-left: 30px;
+    float: right;
 }
