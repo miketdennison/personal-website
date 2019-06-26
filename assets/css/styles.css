@@ -90,7 +90,7 @@ hr {
     width: 15%;
 }
 
-.skill-row {
+.portfolio-row, .skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
